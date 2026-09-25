@@ -1,0 +1,41 @@
+body {
+    background-color: #A6CDFF;
+}
+
+h1 {
+    text-align: center;
+}
+
+.link {
+    display: block;
+    text-align: center;
+}
+
+.blurb {
+    text-align: center;
+}
+
+
+.ing-box {
+    width: 300px;
+    height: auto;
+    background-color: #EBF4FF;
+    border: 2px solid #333333;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.ins-box {
+    width: auto;
+    height: auto;
+    background-color: #EBF4FF;
+    border: 2px solid #333333;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+li {
+    margin-bottom: 10px;
+}
